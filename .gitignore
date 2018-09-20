@@ -1,13 +1,3 @@
 !components/
 
 components/multi-repo-client/
-
-
-
-#!app/
-
-#app/*
-#!app/bower_components/
-
-#app/bower_components/*
-#!app/bower_components/highcharts/
