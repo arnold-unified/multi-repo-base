@@ -1,1 +1,15 @@
-components/*
+#!components/
+
+# components/**
+components/multi-repo-client/
+#!components/multi-repo-client/
+
+
+
+#!app/
+
+#app/*
+#!app/bower_components/
+
+#app/bower_components/*
+#!app/bower_components/highcharts/
