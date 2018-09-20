@@ -1,7 +1,6 @@
 !components/
 
-components/*
-components/**
+components/multi-repo-client/
 
 
 
